@@ -1,6 +1,6 @@
 {
   "name": "karma-reconfig-preprocessor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Karma plugin. To modify requirejs config files.",
   "main": "index.js",
   "scripts": {
